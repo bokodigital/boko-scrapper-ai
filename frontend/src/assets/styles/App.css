@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+body{
+    color: var(--Black, #000);
+/* Desktop - Heading L */
+font-family: Inter;
+/* font-size: 32px; */
+font-style: normal;
+/* font-weight: 500;
+line-height: 130%; 41.6px */
+}
